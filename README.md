@@ -1,6 +1,5 @@
-Para ejecutar api local:
-Ejecutar 'yarn install' / 'npm install' y ejecutar 'yarn start' /'npm start'
-
+Para ejecutar pruebas unitarias:
+Ejecutar 'yarn test --coverage'
 
 
 
