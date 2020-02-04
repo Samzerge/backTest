@@ -1,6 +1,5 @@
 Para ejecutar api local:
-Correr 'yarn install' o 'npm install'
-Correr 'yarn start' o 'npm start'
+Ejecutar 'yarn install' / 'npm install' y ejecutar 'yarn start' /'npm start'
 
 
 
